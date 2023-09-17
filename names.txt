@@ -1,1 +1,4 @@
-
+About me
+Name : Anish Kumar
+Roll no. : 2301MC40
+Department : Mathematics and Computing
